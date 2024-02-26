@@ -7,7 +7,7 @@ This program allows you to check the availability of IP addresses along with the
 Make sure you have Python installed on your system. </br>
 Install the required packages using pip: </br>
 `pip install PyQt5 scapy requests` </br>
-Download the script "ip_checker.py" and save it in your desired directory. 
+Download the script "main.py" and save it in your desired directory. 
 
 # Usage:
 
